@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis [Votre Nom]</h1>
+<h1 align="center">Salut 👋, je suis Fouad MOUTAIROU</h1>
 <h3 align="center">Développeur Full Stack JavaScript passionné par le développement web avec Angular, React, Node.js, PHP, Python et Django.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=votre-nom-utilisateur&label=Profile%20views&color=0e75b6&style=flat" alt="votre-nom-utilisateur" /> </p>
