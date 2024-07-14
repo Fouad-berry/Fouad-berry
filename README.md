@@ -1,9 +1,8 @@
 <h1 align="center">Salut 👋, je suis Fouad MOUTAIROU</h1>
 <h3 align="center">Développeur Full Stack JavaScript passionné par le développement web avec Angular, React, Node.js, PHP, Python et Django.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=votre-nom-utilisateur&label=Profile%20views&color=0e75b6&style=flat" alt="votre-nom-utilisateur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fouad-berry&label=Profile%20views&color=0e75b6&style=flat" alt="Fouad-berry" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fouad-berry" alt="Fouad-berry" /></a> </p>
 
 - 🔭 Je travaille actuellement sur **des projets Angular et Node.js**
 
