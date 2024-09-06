@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fouad-berry&label=Profile%20views&color=0e75b6&style=flat" alt="Fouad-berry" /> </p>
 
 
-- 🔭 Je travaille actuellement sur **des projets Angular et Node.js**
+- 🔭 Je travaille actuellement sur **des projets Angular et Next.js**
 
 - 🌱 Je me perfectionne actuellement en  **Django, Streamlit, Angular**
 
-- 💬 Demandez-moi sur **JavaScript, TypeScript, Angular, React, Node.js, PHP, Python, Django**
+- 💬 Demandez-moi sur **JavaScript, TypeScript, Angular, React, Next.js, Node js, PHP, Python, Django**
 
 - 📫 Vous pouvez me contacter à **fouad.moutairou34@gmail.com**
 
