@@ -1,14 +1,14 @@
 <h1 align="center">Salut 👋, je suis Fouad MOUTAIROU</h1>
-<h3 align="center">Développeur Full Stack JavaScript passionné par le développement web avec Angular, React, Node.js, PHP, Python et Django.</h3>
+<h3 align="center">Data Analyst | Power BI | SQL | Transforming Data into Actionable </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fouad-berry&label=Profile%20views&color=0e75b6&style=flat" alt="Fouad-berry" /> </p>
 
 
-- 🔭 Je travaille actuellement sur **des projets Angular et Next.js**
+- 🔭 Je travaille actuellement sur **des projets Angular, Next.js et des projets d'analyse de données**
 
-- 🌱 Je me perfectionne actuellement en  **Django, Streamlit, Angular**
+- 🌱 Je me perfectionne actuellement en **Django, Streamlit, Angular et en analyse de données avec Python (Pandas, NumPy)**
 
-- 💬 Demandez-moi sur **JavaScript, TypeScript, Angular, React, Next.js, Node js, PHP, Python, Django**
+- 💬 Demandez-moi sur **JavaScript, TypeScript, Angular, React, Next.js, Node.js, PHP, Python, Django, SQL, Pandas, Data Analysis et Data Visualization**
 
 - 📫 Vous pouvez me contacter à **fouad.moutairou34@gmail.com**
 
@@ -22,22 +22,57 @@
 
 <h3 align="left">Langages et outils :</h3>
 <p align="left"> 
-<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fouad-berry&show_icons=true&locale=en&layout=compact" alt="Fouad-berry" /></p>
+<a href="https://angular.io" target="_blank"> 
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+</a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fouad-berry&show_icons=true&locale=en" alt="Fouad-berry" /></p>
+<a href="https://reactjs.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a> 
+
+<a href="https://nodejs.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.python.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+
+<a href="https://pandas.pydata.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a>
+
+<a href="https://numpy.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+</a>
+
+<a href="https://www.mysql.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+</a>
+
+<a href="https://jupyter.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
+</a>
+
+<a href="https://www.javascript.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
+
+</p>center" src="https://github-readme-stats.vercel.app/api?username=Fouad-berry&show_icons=true&locale=en" alt="Fouad-berry" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fouad-berry&" alt="Fouad-berry" /></p>
+
 
