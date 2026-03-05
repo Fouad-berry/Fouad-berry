@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Fouad MOUTAIROU</h1>
-<h3 align="center">Data Analyst | Power BI | SQL | Transforming Data into Actionable </h3>
+<h3 align="center">Software Engineer | Data Analyst | Power BI | SQL | Transforming Data into Actionable </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fouad-berry&label=Profile%20views&color=0e75b6&style=flat" alt="Fouad-berry" /> </p>
 
@@ -74,5 +74,6 @@
 </p>center" src="https://github-readme-stats.vercel.app/api?username=Fouad-berry&show_icons=true&locale=en" alt="Fouad-berry" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fouad-berry&" alt="Fouad-berry" /></p>
+
 
 
