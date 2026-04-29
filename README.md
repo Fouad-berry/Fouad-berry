@@ -8,9 +8,7 @@
 
 ## 📌 À propos de moi
 
-- **Profil** : Analytics Engineer / Data Analyst en recherche d'alternance
-- **Disponibilité** : Septembre 2026 (3 semaines entreprise / 1 semaine école)
-- **Durée contrat** : 1 an ou plus
+- **Profil** : Analytics Engineer / Data Analyst / Ex Software Enginneer
 
 ---
 
